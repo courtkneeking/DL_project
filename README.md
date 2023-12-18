@@ -1,5 +1,6 @@
 # DL_project
 
+### Contents
 ```
 |- data 
 |  |- original_data 
@@ -14,4 +15,6 @@
 |- generator_models.py 
 ```
 
+###  Run: 
+```python3 main.py```
 
