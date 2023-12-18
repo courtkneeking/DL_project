@@ -18,8 +18,9 @@
 
 |- eval                        [additional files called separately ] 
 |- |- generator_models.ipynb   [GAN used to create synthetic images in ./data/augmented_data ] 
+```
 
-### run
+### Run
 ```
 python3 main.py 
 ``` 
