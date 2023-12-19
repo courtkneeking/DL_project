@@ -5,7 +5,10 @@
 |- main.py                     [driver file]
 |- models.py                   [test file includes s-o-t-a architectures]
 |- weights
-|- src                  
+|- src
+|  |- data_preprocessing
+|  |- gan
+|  |- multi_classification              
 |- outputs                     [figures saved from tests in main file]
 
 |- data                        [original MIT-Arrythmia Dataset ]
